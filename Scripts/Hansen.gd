@@ -69,7 +69,7 @@ func _physics_process(delta: float) -> void:
 			if dist < 60:
 				state = State.CHASE
 				_step_timer = 0.0
-			elif alert_timer <= 0 or dist > hearing_radius * 1.5:
+			elif alert_timer <= 0 or dist > hearing_radius * 1.5 or player.is_standing_still():
 				state = State.PATROL
 				_step_timer = 0.0
 
