@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://d362xql7eys37"
-path="res://.godot/imported/sepatu.jpg-fa13fa16b4cec9c575459ac6ec7da46a.ctex"
+path="res://.godot/imported/sepatu.jpg-2243b573f10fd71340c6924ee54f19d8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/item/Item/sepatu.jpg"
-dest_files=["res://.godot/imported/sepatu.jpg-fa13fa16b4cec9c575459ac6ec7da46a.ctex"]
+source_file="res://Assets/item/sepatu.jpg"
+dest_files=["res://.godot/imported/sepatu.jpg-2243b573f10fd71340c6924ee54f19d8.ctex"]
 
 [params]
 
