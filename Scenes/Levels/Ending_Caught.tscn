@@ -1,8 +1,10 @@
 [gd_scene format=3 uid="uid://dycpe6ewyta3j"]
 
+[ext_resource type="Script" uid="uid://cjk232kwr02tp" path="res://Scripts/EndingCaught.gd" id="1_fxk6g"]
 [ext_resource type="Script" uid="uid://cbte04ar1s5b1" path="res://Scripts/Button.gd" id="1_ws8e3"]
 
 [node name="Ending_Caught" type="CanvasLayer" unique_id=954612611]
+script = ExtResource("1_fxk6g")
 
 [node name="ColorRect" type="ColorRect" parent="." unique_id=406755874]
 offset_right = 1179.0

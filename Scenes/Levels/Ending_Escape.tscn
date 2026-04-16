@@ -1,6 +1,9 @@
 [gd_scene format=3 uid="uid://bmdgftf0ybvg4"]
 
-[node name="Ending_Caught" type="CanvasLayer" unique_id=954612611]
+[ext_resource type="Script" uid="uid://dcnvxn64k1yev" path="res://Scripts/EndingEscape.gd" id="1_eu6md"]
+
+[node name="Ending_Escape" type="CanvasLayer" unique_id=954612611]
+script = ExtResource("1_eu6md")
 
 [node name="ColorRect" type="ColorRect" parent="." unique_id=406755874]
 anchors_preset = 8

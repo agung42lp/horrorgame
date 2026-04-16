@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://cy82no4465j5y"]
+
+[node name="HidingView" type="CanvasLayer" unique_id=1126696799 groups=["HidingView"]]
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=2054539653]
+offset_right = 40.0
+offset_bottom = 40.0
